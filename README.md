@@ -1,6 +1,7 @@
 # Machine Learning A-Z™ – Course Repository
 
-![AI Illustration]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Artificial_Intelligence_logo.jpg/640px-Artificial_Intelligence_logo.jpg](https://www.google.com/imgres?q=ai&imgurl=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtificial-Intelligence-Robot-Thinking-Brain.jpg&imgrefurl=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&docid=WCSdCr8IQdY68M&tbnid=hqGscaSUDn2BOM&vet=12ahUKEwiLr9Sl1-eOAxWHc_UHHeEXMwEQM3oECB0QAA..i&w=2000&h=1143&hcb=2&ved=2ahUKEwiLr9Sl1-eOAxWHc_UHHeEXMwEQM3oECB0QAA))
+![AI Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg/640px-Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)
+
 <!-- Replace this with your own image URL if you have one -->
 
 This repository contains my personal work, projects, and notes from the Udemy course:  
