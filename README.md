@@ -1,6 +1,11 @@
 # Machine Learning A-Z™ – Course Repository
 
+# Machine Learning A-Z™ – Course Repository
+
 ![AI Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg/640px-Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)
+
+This repository contains my personal work...
+
 
 <!-- Replace this with your own image URL if you have one -->
 
