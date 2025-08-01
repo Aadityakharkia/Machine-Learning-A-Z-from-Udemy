@@ -1,18 +1,11 @@
 # Machine Learning A-Z™ – Course Repository
 
-# Machine Learning A-Z™ – Course Repository
-
-![AI Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg/640px-Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)
-
-This repository contains my personal work...
-
-
-<!-- Replace this with your own image URL if you have one -->
+This repository contains my projects and code I worked while learning the course. 
 
 This repository contains my personal work, projects, and notes from the Udemy course:  
 **[Machine Learning A-Z™: Learn to create Machine Learning Algorithms in Python and R from two Data Science experts](https://www.udemy.com/course/machinelearning/)**
 
-The course is taught by **Kirill Eremenko** and **Hadelin de Ponteves**, and it provides hands-on implementation of machine learning algorithms in **both Python and R**.
+The course is taught by **Kirill Eremenko** and **Hadelin de Ponteves**, and it provides hands-on implementation of machine learning algorithms in Python.
 
 ---
 
@@ -24,7 +17,6 @@ The goal of this repository is to:
 - Practice ML algorithm implementation from scratch
 - Organize code and datasets
 - Showcase my learning publicly
-- Build a GitHub portfolio for future opportunities
 
 ---
 
@@ -52,6 +44,3 @@ The course is broken into 9 major sections, each covering essential ML concepts:
    - K-Fold Cross Validation, Grid Search, XGBoost
 
 ---
-
-## 🗂️ Repository Structure
-
