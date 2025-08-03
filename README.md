@@ -26,9 +26,19 @@ The course is broken into 9 major sections, each covering essential ML concepts:
 
 1. **Data Preprocessing**
 2. **Regression**
-   - Linear, Polynomial, SVR, Decision Tree, Random Forest
+   - Simple Linear Regression
+   - Multiple Linear Regression
+   - Polynomial Linear Regression
+   - Support Vector Regression (SVR)
+   - Decision Tree Regression
+   - Random Forest Regression
 3. **Classification**
-   - Logistic Regression, K-NN, SVM, Naive Bayes, Decision Trees
+   - Logistic Regression
+   - K-Nearest Neighbour
+   - Support Vector Machine (SVM)
+   - Naive Bayes
+   - Decision Trees Classification
+   - Random Forest Classification
 4. **Clustering**
    - K-Means, Hierarchical Clustering
 5. **Association Rule Learning**
